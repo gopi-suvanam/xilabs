@@ -1,4 +1,6 @@
-# Sensor Modules: Powering Modern Electronics and IoT
+---
+tile: Sensor Modules - Powering Modern Electronics and IoT
+---
 
 Sensor modules are integral components in electronics, capable of detecting physical changes in the environment and converting them into signals. They play a pivotal role in Internet of Things (IoT) devices, robotics, home automation, and more. These modules come in various forms, each designed to measure different physical properties such as temperature, motion, humidity, light, gas, and proximity.
 
