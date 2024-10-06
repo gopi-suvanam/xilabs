@@ -1,4 +1,6 @@
-# Microcontroller-Based Solutions: The Backbone of Embedded Systems
+---
+title: Microcontroller-Based Solutions - The Backbone of Embedded Systems
+---
 
 Microcontroller-based solutions are foundational to modern embedded systems, driving innovation across various industries. A microcontroller (MCU) is a compact integrated circuit designed to manage specific tasks within an application, such as controlling sensors, actuators, and other peripherals. These solutions are ideal for IoT devices, robotics, consumer electronics, and industrial automation, where efficient, low-power control is needed.
 
