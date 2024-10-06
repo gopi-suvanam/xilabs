@@ -1,4 +1,4 @@
-**Exploring IoT and Robotics Kits: The Future of Interactive Learning**
+# Exploring IoT and Robotics Kits: The Future of Interactive Learning
 
 The rise of IoT (Internet of Things) and robotics is reshaping how we interact with technology, offering exciting opportunities for both hobbyists and educators. IoT kits enable users to connect physical devices to the internet, gathering real-time data and creating automated systems. Robotics kits, on the other hand, bring mechanical design and programming to life through hands-on assembly and coding. Together, IoT and robotics kits promote STEM learning, equipping users with skills in electronics, programming, and automation.
 
