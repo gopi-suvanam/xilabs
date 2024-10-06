@@ -1,4 +1,4 @@
-# xilabsXilabs:
+# Xilabs
 
 1. Xilabs is an Indian startup, likely based in Bengaluru or Hyderabad.
 2. They provide innovative solutions, workshops, and training programs in emerging technologies.
