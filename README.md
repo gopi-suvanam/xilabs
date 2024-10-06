@@ -1,14 +1,14 @@
 # Xilabs
 
-1. Xilabs is an Indian startup, likely based in Bengaluru or Hyderabad.
+1. Xilabs is an Indian startup, based in Bengaluru and Hyderabad.
 2. They provide innovative solutions, workshops, and training programs in emerging technologies.
-3. Focus areas might include:
+3. Focus areas include:
     - Artificial Intelligence (AI)
     - Internet of Things (IoT)
     - Robotics
     - Data Science
     - Cybersecurity
-4. Xilabs may offer:
+4. Xilabs offers:
     - Hands-on workshops and training sessions
     - Project-based learning experiences
     - Mentorship programs
