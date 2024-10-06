@@ -1,5 +1,5 @@
 ---
-title: AI-Powered Development Boards: Driving Innovation in Edge Computing
+title: AI-Powered Development Boards - Driving Innovation in Edge Computing
 ---
 
 AI-powered development boards are revolutionizing how AI is implemented at the edge by providing powerful processing capabilities in compact, affordable packages. These boards integrate machine learning (ML) and artificial intelligence (AI) models into everyday devices, enabling real-time decision-making and automation without relying on cloud infrastructure. Developers can now build smart applications for robotics, IoT, vision processing, and voice recognition directly on edge devices.
